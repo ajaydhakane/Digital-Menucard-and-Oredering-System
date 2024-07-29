@@ -1,1 +1,1 @@
-# Digital-Menucard-and-Oredering-System
+# Digital-Menucard-and-Reservation-System
